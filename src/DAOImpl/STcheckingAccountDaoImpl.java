@@ -17,9 +17,9 @@ import transaction.TRansaction;
 public class STcheckingAccountDaoImpl implements AccountDao {
 
 	private final static String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	private final static String DATABASE_URL = "jdbc:mysql://localhost:3306/Malick_Table?" + "autoReconnect=true&useSSL=false";;
+	private final static String DATABASE_URL = "jdbc:mysql://localhost:------_Table?" + "autoReconnect=true&useSSL=false";;
 	private final static String USERNAME = "root";
-	private final static String PASSWORD = "Yacineadou";
+	private final static String PASSWORD = "--------";
 	private Connection connection;
 	
 	Statement statement = null;

@@ -24,10 +24,10 @@ import user.User;
 public class TRansactionDAOImpl implements TRansactionDao {
 
 	private final static String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	private final static String DATABASE_URL = "jdbc:mysql://localhost:3306/Malick_Table?"
+	private final static String DATABASE_URL = "jdbc:mysql://localhost:----_Table?"
 			+ "autoReconnect=true&useSSL=false";;
 	private final static String USERNAME = "root";
-	private final static String PASSWORD = "Yacineadou";
+	private final static String PASSWORD = "------";
 	private static final TRansaction idTransaction1 = null;
 	private static final java.sql.Date StartDate = null;
 	private static final java.util.Date Date = null;
